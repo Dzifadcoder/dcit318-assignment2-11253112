@@ -1,0 +1,5 @@
+/Users/dzifa/Desktop/dcit318-assignment2-11253112/obj/Debug/net9.0/dcit318-assignment2-11253112.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dzifa/Desktop/dcit318-assignment2-11253112/obj/Debug/net9.0/dcit318-assignment2-11253112.AssemblyInfoInputs.cache
+/Users/dzifa/Desktop/dcit318-assignment2-11253112/obj/Debug/net9.0/dcit318-assignment2-11253112.AssemblyInfo.cs
+/Users/dzifa/Desktop/dcit318-assignment2-11253112/obj/Debug/net9.0/dcit318-assignment2-11253112.csproj.CoreCompileInputs.cache
+/Users/dzifa/Desktop/dcit318-assignment2-11253112/obj/Debug/net9.0/dcit318-assignment2-11253112.sourcelink.json
